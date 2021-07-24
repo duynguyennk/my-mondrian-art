@@ -1,2 +1,2 @@
-# my-mondrian-art-
+# my-mondrian-art
 Just a website to create mondrian art.
