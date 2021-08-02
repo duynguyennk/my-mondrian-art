@@ -88,7 +88,7 @@ function splitRectangleAt(rectangle, position) {
 }
 
 function getColor(){
-    const colors = ['#EBEBED','#EBEBED','#EBEBED','#EBEBED','#EBEBED','#C53632','#3E4984','#F8DD67']
+    const colors = ['#EBEBED','#EBEBED','#EBEBED','#EBEBED','#EBEBED','#EBEBED','#EBEBED','#C53632','#3E4984','#F8DD67']
     return colors[Math.floor(Math.random() * colors.length)];
 }
 
